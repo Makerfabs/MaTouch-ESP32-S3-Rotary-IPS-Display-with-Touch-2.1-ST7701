@@ -7,6 +7,7 @@ Author:		Vincent
 Create Date:	2023/8/24
 Note:
 
+    2023/8/29   V1.1    Change out factory test program
 
 */
 ```
@@ -62,8 +63,14 @@ Please unzip "lib/mf_Lvgl.zip","TouchLib" and copy to arduino library directory.
 
 ### fw_test
 
-Factory test program.
+Old factory test program.
 Test screen display and touch, as well as ring encoders and press switches.
+
+### fw_test_v2
+
+Factory test program.
+Test screen display and touch, as well as ring encoders and press switches. After press screen, it will change different screen.
+
 
 ### fs_test
 
