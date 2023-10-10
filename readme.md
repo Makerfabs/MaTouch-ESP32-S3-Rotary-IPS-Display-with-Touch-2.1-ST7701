@@ -76,13 +76,9 @@ Test screen display and touch, as well as ring encoders and press switches. Afte
 
 No SD card is required, files are stored in SPIFFS in Flash, and the display is switched by rotary encoder.
 
+Need use arduino-esp32fs-plugin upload picture. And install JPEGDEC version 1.2.8
 
-### squareline_demo
-
-SquareLine demo.
-
-![lvgl](md_pic/lvgl.jpg)
-
+[arduino-esp32fs-plugin](https://github.com/me-no-dev/arduino-esp32fs-plugin)
 
 ### stepper_control
 
