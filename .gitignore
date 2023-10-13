@@ -1,0 +1,4 @@
+
+*.properties
+example/fw_test_v2/src/
+example/ntc_lock/src/
